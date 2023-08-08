@@ -28,7 +28,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="picture/一寸照.jpg" />
 
 <p>&emsp;&emsp;Hey, My name is <b>Huang Niyuan</b>, an undergraduate student from <b>Zhejiang University</b> in China.</p>
 <p>&emsp;&emsp;I majored in <b>Finance</b> and minored in <b>Artificial Intelligence</b>.</p>
