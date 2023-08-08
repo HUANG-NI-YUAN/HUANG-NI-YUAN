@@ -18,13 +18,6 @@
 
 </div>
 
-
-# 📌About me
-* I am an undergraduate student from **Zhejiang University** in China.
-* I majored in **Finance** and minored in **Artificial Intelligence**.
-* Language
-
-
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
