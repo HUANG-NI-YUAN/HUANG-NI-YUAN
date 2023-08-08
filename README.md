@@ -10,16 +10,19 @@
   ![Visitor Count](https://profile-counter.glitch.me/HUANG-NI-YUAN/count.svg)
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 
 </div>
 
 <!-- About me 关于我 -->
-### 🤺 About Me
+# 💬 About Me
+
+<table>
+<tr><td>
 
 <img align="right" width="88" src="picture/一寸照.jpg" />
 
@@ -33,7 +36,7 @@
 <tr>
 <td>
   
-### 🏢 Educational Background
+### ✏ Educational Background
 
 <img align="right" width="88" src="picture/ZJU.jfif" />
 
@@ -42,34 +45,97 @@
   - Major: Fiance
   - Minor: Artificial Intelligence
 
-<tr>
-<td>
+<tr><td>
   
-### 🏢 Work Experience
+### 💼 Work Experience
 
 <img align="right" width="88" src="picture/华软新动力.png" />
 
-- [新动力资产](http://www.newmomentum.cn/) &emsp; 📌 2023-07-3 —— Now
+- [New Momentum Asset Management](http://www.newmomentum.cn/) &emsp; 📌 2023-07-3 —— Now
   
-  - 工作岗位：策略部因子研究员
-  - 工作内容：因子挖掘与开发
+  - Job Position: Quantitative Researcher in the Strategy Department with a focus on Factor Analysis
+  - Job Responsibilities: Responsible for the exploration, enhancement, and research of price-volume factors and fundamental factors, primarily involving structured data in mid-to-low dimensions.
 
 <img align="right" width="88" src="picture/之江实验室.jpg" />
 
-- [之江实验室](https://www.zhejianglab.com/home) &emsp; 📌 2022-01-21 —— 2023-07-21
+- [Zhejiang Lab](https://www.zhejianglab.com/home) &emsp; 📌 2022-01-21 —— 2023-07-21
   
-  - 工作岗位：金融科技中心实习生
-  - 工作内容：参与金融科技相关课题研究，主要工作为数据处理与数据分析
+  - Job Position: Financial Technology Center Intern
+  - Job Responsibilities: Participated in research on financial technology-related topics, studying the current status, achievements, and challenges of financial technology in China. My main responsibilities included data processing and data analysis.
 
 <img align="right" width="88" src="picture/picture/Alibaba.png" />
 
-- [阿里巴巴](https://www.alibabagroup.com/zh-HK) &emsp; 📌 2021-08-02 —— 2021-08-13
+- [Alibaba](https://www.alibabagroup.com/zh-HK) &emsp; 📌 2021-08-02 —— 2021-08-13
   
-  - 工作岗位：阿里集团-CPO线-人力资源部-全球人才储备-雇主品牌
-  - 工作内容：人力资源相关工作
+  - Job Position: Alibaba Group - CPO Line - Human Resources Department - Global Talent Pool - Employer Branding
+  - Job Responsibilities: Participated in human resources-related work, gaining insights into the business models of the internet industry represented by Taobao, Fliggy, and Ant Financial.
+
+</td></tr>
+
+<tr><td>
+
+### 📝  Research Experience
+
+- Network and Rational Inattention &emsp; 📌 2023-01-05 —— now
+  
+  - Research Progress: Still working. A proof of the existence of solutions for the fixed-point equation has been accepted by the supervisor.
+  - Research Content: The main work involves proving the existence and uniqueness of solutions to fixed-point equations in the model, applying Brouwer's Fixed Point Theorem, Kellogg's Theorem on Uniqueness, and Matrix Differential Calculus, as well as utilizing numerical solutions with MATLAB.
+
+<img align="right" width="88" src="picture/picture/Alibaba.png" />
+
+- [ESG Rating Events, Financial Investment Behavior and Corporate Innovation](https://www.sciencedirect.com/science/article/abs/pii/S0313592622001977) &emsp; 📌 2021-08-02 —— 2021-08-13
+  
+  - Research Progress: The paper was successfully published in "Analyses of Topical Policy Issues".
+  - Research Content: Taking Chinese A-share non-financial listed companies from 2009 to 2020 as research samples, this paper empirically studies the mechanism of ESG rating events affecting corporate innovation of listed companies.
+
+</td></tr>
 
 
+<!-- wakatime 统计 -->
+# 📊 Statistics
 
+<table>
+<tr><td>
+  
+### ⌨ Language
+  
+  - Language: Python, C, MATLAB, States
+  - Program: Pytorch, sklearn
+<div align="center">
+    <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HUANG-NI-YUAN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+</td></tr>
+
+<tr><td>
+
+### 📈 GitHub Statistics
+
+<div align="center">
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HUANG-NI-YUAN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</div>
+
+</td></tr>
+
+<tr><td>
+
+### 📊 GitHub streak
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HUANG-NI-YUAN&theme=dark&hide_border=true" />
+</div>
+
+</td></tr>
+
+<tr><td>
+
+### 📋 Metrics
+
+<div align="center">
+    <img src="https://metrics.lecoq.io/HUANG-NI-YUAN?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
+</td></tr>
 
 
 <!--
