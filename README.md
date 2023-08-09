@@ -88,6 +88,30 @@
   - Research Content: Taking Chinese A-share non-financial listed companies from 2009 to 2020 as research samples, this paper empirically studies the mechanism of ESG rating events affecting corporate innovation of listed companies.
 
 </td></tr>
+
+<tr><td>
+
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HUANG-NI-YUAN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HUANG-NI-YUAN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HUANG-NI-YUAN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr>
+
+
+
+
+
 </table>
 
 
