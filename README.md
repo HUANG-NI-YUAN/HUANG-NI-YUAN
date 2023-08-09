@@ -63,7 +63,7 @@
   - Job Position: Financial Technology Center Intern
   - Job Responsibilities: Participated in research on financial technology-related topics, studying the current status, achievements, and challenges of financial technology in China. My main responsibilities included data processing and data analysis.
 
-<img align="right" width="88" src="picture/picture/Alibaba.png" />
+<img align="right" width="88" src="picture/Alibaba.png" />
 
 - [Alibaba](https://www.alibabagroup.com/zh-HK) &emsp; 📌 2021-08-02 —— 2021-08-13
   
@@ -81,7 +81,6 @@
   - Research Progress: Still working. A proof of the existence of solutions for the fixed-point equation has been accepted by the supervisor.
   - Research Content: The main work involves proving the existence and uniqueness of solutions to fixed-point equations in the model, applying Brouwer's Fixed Point Theorem, Kellogg's Theorem on Uniqueness, and Matrix Differential Calculus, as well as utilizing numerical solutions with MATLAB.
 
-<img align="right" width="88" src="picture/picture/Alibaba.png" />
 
 - [ESG Rating Events, Financial Investment Behavior and Corporate Innovation](https://www.sciencedirect.com/science/article/abs/pii/S0313592622001977) &emsp; 📌 2021-08-02 —— 2021-08-13
   
@@ -92,52 +91,63 @@
 </table>
 
 
-<div align="center">
 <!-- wakatime 统计 -->
+
 # 📊 Statistics
 
+<div align="center">
 <table>
 <tr><td>
-  
+    
 ### ⌨ Language
-  
   - Language: Python, C, MATLAB, States
   - Program: Pytorch, sklearn
-<div align="center">
-    <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HUANG-NI-YUAN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+    <div align="center">
+    
+      <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HUANG-NI-YUAN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
 </div>
 
 </td></tr>
-
 <tr><td>
-
+  
 ### 📈 GitHub Statistics
-
 <div align="center">
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HUANG-NI-YUAN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HUANG-NI-YUAN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
 </td></tr>
 
-<tr><td>
-
+<tr>
+<td>
+  
 ### 📊 GitHub streak
-
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HUANG-NI-YUAN&theme=dark&hide_border=true" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HUANG-NI-YUAN&theme=dark&hide_border=true" />
 </div>
-
-</td></tr>
+</td>
+</tr>
 
 <tr><td>
-
+  
 ### 📋 Metrics
-
 <div align="center">
-    <img src="https://metrics.lecoq.io/HUANG-NI-YUAN?template=classic&config.timezone=Asia%2FShanghai">
+<img src="https://metrics.lecoq.io/HUANG-NI-YUAN?template=classic&config.timezone=Asia%2FShanghai">
 </div>
-
 </td></tr>
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<tr><td>
+  
+### 📋 activity-graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HUANG-NI-YUAN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
+</div>
+</td></tr>
+
+</table>
+</div>
 
 
 <!--
