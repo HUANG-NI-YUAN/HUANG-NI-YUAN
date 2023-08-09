@@ -89,8 +89,10 @@
   - Research Content: Taking Chinese A-share non-financial listed companies from 2009 to 2020 as research samples, this paper empirically studies the mechanism of ESG rating events affecting corporate innovation of listed companies.
 
 </td></tr>
+</table>
 
 
+<div align="center">
 <!-- wakatime 统计 -->
 # 📊 Statistics
 
