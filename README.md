@@ -24,7 +24,7 @@
 <table>
 <tr><td>
 
-<img align="right" width="88" src="picture/一寸照.jpg" />
+<img align="right" width="88" src="picture/d92e164b022e98c77917eaffb2435b6.jpg" />
 
 <p>&emsp;&emsp;Hey, My name is <b>Huang Niyuan</b>, an undergraduate student from <b>Zhejiang University</b> in China.</p>
 <p>&emsp;&emsp;I majored in <b>Finance</b> and minored in <b>Artificial Intelligence</b>.</p>
