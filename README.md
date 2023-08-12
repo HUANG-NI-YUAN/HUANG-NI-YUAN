@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/coding.gif" /><br>
 
   <!-- dynamic typing effect 动态打字效果 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Nice+to+Meet+you!👋;Welcome+to+my+page!👋&center=true&size=27)](https://git.io/typing-svg)
