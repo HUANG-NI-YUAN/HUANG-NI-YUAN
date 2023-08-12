@@ -38,7 +38,7 @@
   
 ### ✏ Educational Background
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/ZJU.jfif" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/ZJU.jpg" />
 
 - [Zhejiang University](https://www.zju.edu.cn/) &emsp; 📌 2021.09 —— Now
     
@@ -49,21 +49,21 @@
   
 ### 💼 Work Experience
 
-<img align="right" width="88" src="picture/华软新动力.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/华软新动力.png" />
 
 - [New Momentum Asset Management](http://www.newmomentum.cn/) &emsp; 📌 2023-07-3 —— Now
   
   - Job Position: Quantitative Researcher in the Strategy Department with a focus on Factor Analysis
   - Job Responsibilities: Responsible for the exploration, enhancement, and research of price-volume factors and fundamental factors, primarily involving structured data in mid-to-low dimensions.
 
-<img align="right" width="88" src="picture/之江实验室.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/之江实验室.jpg" />
 
 - [Zhejiang Lab](https://www.zhejianglab.com/home) &emsp; 📌 2022-01-21 —— 2023-07-21
   
   - Job Position: Financial Technology Center Intern
   - Job Responsibilities: Participated in research on financial technology-related topics, studying the current status, achievements, and challenges of financial technology in China. My main responsibilities included data processing and data analysis.
 
-<img align="right" width="88" src="picture/Alibaba.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/Alibaba.png" />
 
 - [Alibaba](https://www.alibabagroup.com/zh-HK) &emsp; 📌 2021-08-02 —— 2021-08-13
   
