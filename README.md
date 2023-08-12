@@ -111,73 +111,46 @@
 </tr></td>
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**I'm an Early 🐤** 
 
-</td></tr>
+```text
+🌞 Morning                9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌆 Daytime                55 commits          █████████████████████░░░░   82.09 % 
+🌃 Evening                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+```
+📅 **I'm Most Productive on Wednesday** 
 
-
-
-</table>
-
-
-<!-- wakatime 统计 -->
-
-# 📊 Statistics
-
-<div align="center">
-<table>
-<tr><td>
-    
-### ⌨ Language
-  - Language: Python, C, MATLAB, States
-  - Program: Pytorch, sklearn
-
-    <div align="center">
-    
-      <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HUANG-NI-YUAN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-</div>
-
-</td></tr>
-<tr><td>
-  
-### 📈 GitHub Statistics
-<div align="center">
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HUANG-NI-YUAN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</div>
-
-</td></tr>
-
-<tr>
-<td>
-  
-### 📊 GitHub streak
-<div align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HUANG-NI-YUAN&theme=dark&hide_border=true" />
-</div>
-</td>
-</tr>
-
-<tr><td>
-  
-### 📋 Metrics
-<div align="center">
-<img src="https://metrics.lecoq.io/HUANG-NI-YUAN?template=classic&config.timezone=Asia%2FShanghai">
-</div>
-</td></tr>
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<tr><td>
-  
-### 📋 activity-graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HUANG-NI-YUAN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
-</div>
-</td></tr>
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  18 commits          ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+Wednesday                22 commits          ████████░░░░░░░░░░░░░░░░░   32.84 % 
+Thursday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Saturday                 14 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
 
-<!--START_SECTION:waka-->
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   13 hrs 33 mins      █████████████████████████   99.91 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 33 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    13 hrs 33 mins      █████████████████████████   99.94 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+```
+
+
+ Last Updated on 12/08/2023 09:31:35 UTC
 <!--END_SECTION:waka-->
 
 
