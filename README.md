@@ -24,9 +24,9 @@
 <table>
 <tr><td>
 
-<img align="right" width="88" src="picture/d92e164b022e98c77917eaffb2435b6.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/大头照.JPG" />
 
-<p>&emsp;&emsp;Hey, My name is <b>Huang Niyuan</b>, an undergraduate student from <b>Zhejiang University</b> in China.</p>
+<p>&emsp;&emsp;Hey, My name is <b>Niyuan Huang</b>, an undergraduate student from <b>Zhejiang University</b> in China.</p>
 <p>&emsp;&emsp;I majored in <b>Finance</b> and minored in <b>Artificial Intelligence</b>.</p>
 <p>&emsp;&emsp;Passionate about finance and computer science, constantly exploring the interdisciplinary field of finance and computer.</p>
 <p>&emsp;&emsp;Aspiring to devote myself to the economic and financial industry, using code to contribute to modern finance.</p>
@@ -38,7 +38,7 @@
   
 ### ✏ Educational Background
 
-<img align="right" width="88" src="picture/ZJU.jfif" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/ZJU.jfif" />
 
 - [Zhejiang University](https://www.zju.edu.cn/) &emsp; 📌 2021.09 —— Now
     
