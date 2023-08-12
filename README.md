@@ -108,7 +108,12 @@
 
 </td></tr>
 
+</tr></td>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</td></tr>
 
 
 
@@ -170,8 +175,10 @@
 </div>
 </td></tr>
 
-</table>
-</div>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--
