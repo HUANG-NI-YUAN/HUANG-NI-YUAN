@@ -18,11 +18,13 @@
 
 </div>
 
-<!-- About me 关于我 -->
-# 💬 About Me
+#  🙋 Hello
 
 <table>
 <tr><td>
+
+<!-- About me 关于我 -->
+### 💬 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/大头照.JPG" />
 
@@ -35,7 +37,8 @@
 
 <tr>
 <td>
-  
+
+<!-- Educational Background 教育经历 -->
 ### ✏ Educational Background
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/ZJU.jpg" />
@@ -45,8 +48,11 @@
   - Major: Fiance
   - Minor: Artificial Intelligence
 
+</td></tr>
+
 <tr><td>
-  
+
+<!-- Work Experience 实习经历 -->
 ### 💼 Work Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/华软新动力.png" />
@@ -74,6 +80,7 @@
 
 <tr><td>
 
+<!-- Research Experience 科研经历 -->
 ### 📝  Research Experience
 
 - Network and Rational Inattention &emsp; 📌 2023-01-05 —— now
@@ -153,18 +160,7 @@ Windows                  0 secs              ░░░░░░░░░░░�
  Last Updated on 12/08/2023 09:31:35 UTC
 <!--END_SECTION:waka-->
 
+</td></tr>
+</table>
 
-<!--
-**HUANG-NI-YUAN/HUANG-NI-YUAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
