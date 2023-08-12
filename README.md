@@ -101,22 +101,6 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HUANG-NI-YUAN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HUANG-NI-YUAN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HUANG-NI-YUAN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-</tr></td>
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -163,4 +147,32 @@ Windows                  0 secs              ░░░░░░░░░░░�
 </td></tr>
 </table>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/HUANG-NI-YUAN/HUANG-NI-YUAN/picture/hr.gif" />
+
+<div align="center" >
+
+```mermaid
+mindmap
+  root((HUNANG))
+    Code
+      Python
+      C
+      Stata
+      MATLAB
+    Economic and Finance
+      Macroeconomic    
+      Asset Pricing
+      Corporate Finance
+      Quant
+    Sports
+      Basketball
+      Soccer
+      Tabletennis
+      Bodybuilding
+    Art
+      Violin
+    Favorite Star
+      Kawai Leonard
+```
 
