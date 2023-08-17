@@ -10,6 +10,7 @@ on:
   
 jobs:
   github-metrics:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       # 基础信息（顺带了几个小插件）
